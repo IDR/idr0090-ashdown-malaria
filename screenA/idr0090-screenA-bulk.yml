@@ -1,0 +1,13 @@
+---
+target: "Screen:name:idr0090-ashdown-malaria/screenA"
+path: "idr0090-screenA-plates.tsv"
+continue: "true"
+transfer: "ln_s"
+skip: "all"
+logprefix: "logs/"
+file: "idr0090.log"
+errs: "idr0090.err"
+parallel_upload: "10"
+columns:
+    - path
+    - name

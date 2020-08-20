@@ -4,7 +4,7 @@ Rows = 7
 Columns = 11
 Fields = 32
 
-[Well D02]
+[Well 0]
 Row = 3
 Column = 1
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellD02_Point0000_Seq1024.nd2
@@ -40,7 +40,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellD02_Point0030_Seq1054.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellD02_Point0031_Seq1055.nd2
 
-[Well B03]
+[Well 1]
 Row = 1
 Column = 2
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB03_Point0000_Seq0352.nd2
@@ -76,7 +76,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB03_Point0030_Seq0382.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB03_Point0031_Seq0383.nd2
 
-[Well B05]
+[Well 2]
 Row = 1
 Column = 4
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB05_Point0000_Seq0288.nd2
@@ -112,7 +112,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB05_Point0030_Seq0318.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB05_Point0031_Seq0319.nd2
 
-[Well B07]
+[Well 3]
 Row = 1
 Column = 6
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB07_Point0000_Seq0224.nd2
@@ -148,7 +148,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB07_Point0030_Seq0254.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB07_Point0031_Seq0255.nd2
 
-[Well A05]
+[Well 4]
 Row = 0
 Column = 4
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellA05_Point0000_Seq0000.nd2
@@ -184,7 +184,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellA05_Point0030_Seq0030.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellA05_Point0031_Seq0031.nd2
 
-[Well D07]
+[Well 5]
 Row = 3
 Column = 6
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellD07_Point0000_Seq0864.nd2
@@ -220,7 +220,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellD07_Point0030_Seq0894.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellD07_Point0031_Seq0895.nd2
 
-[Well F02]
+[Well 6]
 Row = 5
 Column = 1
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellF02_Point0000_Seq1664.nd2
@@ -256,7 +256,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellF02_Point0030_Seq1694.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellF02_Point0031_Seq1695.nd2
 
-[Well B08]
+[Well 7]
 Row = 1
 Column = 7
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB08_Point0000_Seq0192.nd2
@@ -292,7 +292,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB08_Point0030_Seq0222.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB08_Point0031_Seq0223.nd2
 
-[Well A06]
+[Well 8]
 Row = 0
 Column = 5
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellA06_Point0000_Seq0032.nd2
@@ -328,7 +328,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellA06_Point0030_Seq0062.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellA06_Point0031_Seq0063.nd2
 
-[Well C07]
+[Well 9]
 Row = 2
 Column = 6
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellC07_Point0000_Seq0576.nd2
@@ -364,7 +364,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellC07_Point0030_Seq0606.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellC07_Point0031_Seq0607.nd2
 
-[Well B11]
+[Well 10]
 Row = 1
 Column = 10
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB11_Point0000_Seq0096.nd2
@@ -400,7 +400,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB11_Point0030_Seq0126.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB11_Point0031_Seq0127.nd2
 
-[Well F07]
+[Well 11]
 Row = 5
 Column = 6
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellF07_Point0000_Seq1504.nd2
@@ -436,7 +436,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellF07_Point0030_Seq1534.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellF07_Point0031_Seq1535.nd2
 
-[Well B06]
+[Well 12]
 Row = 1
 Column = 5
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB06_Point0000_Seq0256.nd2
@@ -472,7 +472,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB06_Point0030_Seq0286.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB06_Point0031_Seq0287.nd2
 
-[Well E02]
+[Well 13]
 Row = 4
 Column = 1
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellE02_Point0000_Seq1056.nd2
@@ -508,7 +508,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellE02_Point0030_Seq1086.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellE02_Point0031_Seq1087.nd2
 
-[Well B04]
+[Well 14]
 Row = 1
 Column = 3
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB04_Point0000_Seq0320.nd2
@@ -544,7 +544,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB04_Point0030_Seq0350.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB04_Point0031_Seq0351.nd2
 
-[Well B02]
+[Well 15]
 Row = 1
 Column = 1
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB02_Point0000_Seq0384.nd2
@@ -580,7 +580,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB02_Point0030_Seq0414.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB02_Point0031_Seq0415.nd2
 
-[Well B10]
+[Well 16]
 Row = 1
 Column = 9
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB10_Point0000_Seq0128.nd2
@@ -616,7 +616,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB10_Point0030_Seq0158.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB10_Point0031_Seq0159.nd2
 
-[Well E07]
+[Well 17]
 Row = 4
 Column = 6
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellE07_Point0000_Seq1216.nd2
@@ -652,7 +652,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellE07_Point0030_Seq1246.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellE07_Point0031_Seq1247.nd2
 
-[Well C02]
+[Well 18]
 Row = 2
 Column = 1
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellC02_Point0000_Seq0416.nd2
@@ -688,7 +688,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellC02_Point0030_Seq0446.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellC02_Point0031_Seq0447.nd2
 
-[Well G02]
+[Well 19]
 Row = 6
 Column = 1
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellG02_Point0000_Seq1696.nd2
@@ -724,7 +724,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellG02_Point0030_Seq1726.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellG02_Point0031_Seq1727.nd2
 
-[Well A07]
+[Well 20]
 Row = 0
 Column = 6
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellA07_Point0000_Seq0064.nd2
@@ -760,7 +760,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellA07_Point0030_Seq0094.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellA07_Point0031_Seq0095.nd2
 
-[Well B09]
+[Well 21]
 Row = 1
 Column = 8
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB09_Point0000_Seq0160.nd2
@@ -796,7 +796,7 @@ Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asex
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB09_Point0030_Seq0190.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellB09_Point0031_Seq0191.nd2
 
-[Well G07]
+[Well 22]
 Row = 6
 Column = 6
 Field_0 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190322_asexual_withGFP/NDExp_WellG07_Point0000_Seq1856.nd2

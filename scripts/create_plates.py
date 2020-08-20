@@ -78,12 +78,12 @@ for plate in plates.values():
     writer.write("Rows = {}\n".format(plate.max_row() + 1))
     writer.write("Columns = {}\n".format(plate.max_col() + 1))
     writer.write("Fields = {}\n".format(plate.n_fields()))
-    for well in plate.wells.values():
-        writer.write("\n[Well {}]\n".format(well.pos))
+    for i, well in enumerate(plate.wells.values()):
+        writer.write("\n[Well {}]\n".format(i))
         writer.write("Row = {}\n".format(well.row))
         writer.write("Column = {}\n".format(well.col))
-        for i, field in enumerate(well.get_fields()):
-            writer.write("Field_{} = {}/{}\n".format(i, uod_path, field.path))
+        for field_index, field in enumerate(well.get_fields()):
+            writer.write("Field_{} = {}/{}\n".format(field_index, uod_path, field.path))
     writer.close()
     plates_tsv.write("/uod/idr/metadata/idr0090-ashdown-malaria/screens/{}.screen\n".format(plate.name))
 plates_tsv.close()

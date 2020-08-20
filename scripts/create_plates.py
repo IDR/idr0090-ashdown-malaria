@@ -48,6 +48,14 @@ class Field:
         self.path = ""
 
 
+def create_checklist(max_row, max_col):
+    result = []
+    for i in range(0, max_row+1):
+        for j in range(0, max_col+1):
+            result.append("{}-{}".format(i,j))
+    return result
+
+
 plates = {}
 exp = "(.+)/NDExp_Well(.{3})_Point00(.{2})_.+"
 with open(in_file, "r") as tmp:
@@ -78,12 +86,22 @@ for plate in plates.values():
     writer.write("Rows = {}\n".format(plate.max_row() + 1))
     writer.write("Columns = {}\n".format(plate.max_col() + 1))
     writer.write("Fields = {}\n".format(plate.n_fields()))
+
+    checklist = create_checklist(plate.max_row(), plate.max_col())
     for i, well in enumerate(plate.wells.values()):
         writer.write("\n[Well {}]\n".format(i))
         writer.write("Row = {}\n".format(well.row))
         writer.write("Column = {}\n".format(well.col))
+        checklist.remove("{}-{}".format(well.row, well.col))
         for field_index, field in enumerate(well.get_fields()):
             writer.write("Field_{} = {}/{}\n".format(field_index, uod_path, field.path))
+
+    start = len(plate.wells.values())
+    for i, missing in enumerate(checklist):
+        writer.write("\n[Well {}]\n".format(start + i))
+        writer.write("Row = {}\n".format(missing.split("-")[0]))
+        writer.write("Column = {}\n".format(missing.split("-")[1]))
+
     writer.close()
     plates_tsv.write("/uod/idr/metadata/idr0090-ashdown-malaria/screens/{}.screen\n".format(plate.name))
 plates_tsv.close()

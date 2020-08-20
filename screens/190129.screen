@@ -1767,3 +1767,71 @@ Field_28 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190129_asex
 Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190129_asexual_withGFP/NDExp_WellD09_Point0029_Seq0893.nd2
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190129_asexual_withGFP/NDExp_WellD09_Point0030_Seq0894.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190129_asexual_withGFP/NDExp_WellD09_Point0031_Seq0895.nd2
+
+[Well 49]
+Row = 0
+Column = 0
+
+[Well 50]
+Row = 0
+Column = 1
+
+[Well 51]
+Row = 0
+Column = 2
+
+[Well 52]
+Row = 0
+Column = 3
+
+[Well 53]
+Row = 0
+Column = 4
+
+[Well 54]
+Row = 0
+Column = 5
+
+[Well 55]
+Row = 0
+Column = 6
+
+[Well 56]
+Row = 0
+Column = 7
+
+[Well 57]
+Row = 0
+Column = 8
+
+[Well 58]
+Row = 0
+Column = 9
+
+[Well 59]
+Row = 0
+Column = 10
+
+[Well 60]
+Row = 1
+Column = 0
+
+[Well 61]
+Row = 2
+Column = 0
+
+[Well 62]
+Row = 3
+Column = 0
+
+[Well 63]
+Row = 3
+Column = 10
+
+[Well 64]
+Row = 4
+Column = 0
+
+[Well 65]
+Row = 5
+Column = 0

@@ -327,3 +327,79 @@ Field_28 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190306_asex
 Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190306_asexual_withGFP/NDExp_WellB02_Point0029_Seq0029.nd2
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190306_asexual_withGFP/NDExp_WellB02_Point0030_Seq0030.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190306_asexual_withGFP/NDExp_WellB02_Point0031_Seq0031.nd2
+
+[Well 9]
+Row = 0
+Column = 0
+
+[Well 10]
+Row = 0
+Column = 1
+
+[Well 11]
+Row = 0
+Column = 2
+
+[Well 12]
+Row = 0
+Column = 3
+
+[Well 13]
+Row = 0
+Column = 4
+
+[Well 14]
+Row = 0
+Column = 5
+
+[Well 15]
+Row = 0
+Column = 6
+
+[Well 16]
+Row = 1
+Column = 0
+
+[Well 17]
+Row = 2
+Column = 0
+
+[Well 18]
+Row = 2
+Column = 1
+
+[Well 19]
+Row = 2
+Column = 2
+
+[Well 20]
+Row = 2
+Column = 3
+
+[Well 21]
+Row = 2
+Column = 4
+
+[Well 22]
+Row = 2
+Column = 5
+
+[Well 23]
+Row = 2
+Column = 6
+
+[Well 24]
+Row = 3
+Column = 0
+
+[Well 25]
+Row = 3
+Column = 1
+
+[Well 26]
+Row = 3
+Column = 5
+
+[Well 27]
+Row = 3
+Column = 6

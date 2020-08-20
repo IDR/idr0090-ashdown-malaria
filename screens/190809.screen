@@ -327,3 +327,247 @@ Field_28 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190809_asex
 Field_29 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190809_asexual_withGFP/NDExp_WellE05_Point0029_Seq1181.nd2
 Field_30 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190809_asexual_withGFP/NDExp_WellE05_Point0030_Seq1182.nd2
 Field_31 = /uod/idr/filesets/idr0090-ashdown-malaria/20200701-gcloud/190809_asexual_withGFP/NDExp_WellE05_Point0031_Seq1183.nd2
+
+[Well 9]
+Row = 0
+Column = 0
+
+[Well 10]
+Row = 0
+Column = 4
+
+[Well 11]
+Row = 0
+Column = 5
+
+[Well 12]
+Row = 0
+Column = 6
+
+[Well 13]
+Row = 0
+Column = 7
+
+[Well 14]
+Row = 0
+Column = 8
+
+[Well 15]
+Row = 0
+Column = 9
+
+[Well 16]
+Row = 1
+Column = 0
+
+[Well 17]
+Row = 1
+Column = 1
+
+[Well 18]
+Row = 1
+Column = 2
+
+[Well 19]
+Row = 1
+Column = 3
+
+[Well 20]
+Row = 1
+Column = 4
+
+[Well 21]
+Row = 1
+Column = 5
+
+[Well 22]
+Row = 1
+Column = 6
+
+[Well 23]
+Row = 1
+Column = 7
+
+[Well 24]
+Row = 1
+Column = 8
+
+[Well 25]
+Row = 2
+Column = 0
+
+[Well 26]
+Row = 2
+Column = 1
+
+[Well 27]
+Row = 2
+Column = 2
+
+[Well 28]
+Row = 2
+Column = 3
+
+[Well 29]
+Row = 2
+Column = 4
+
+[Well 30]
+Row = 2
+Column = 5
+
+[Well 31]
+Row = 2
+Column = 6
+
+[Well 32]
+Row = 2
+Column = 7
+
+[Well 33]
+Row = 2
+Column = 8
+
+[Well 34]
+Row = 2
+Column = 9
+
+[Well 35]
+Row = 3
+Column = 0
+
+[Well 36]
+Row = 3
+Column = 1
+
+[Well 37]
+Row = 3
+Column = 2
+
+[Well 38]
+Row = 3
+Column = 3
+
+[Well 39]
+Row = 3
+Column = 4
+
+[Well 40]
+Row = 3
+Column = 5
+
+[Well 41]
+Row = 3
+Column = 6
+
+[Well 42]
+Row = 3
+Column = 7
+
+[Well 43]
+Row = 3
+Column = 8
+
+[Well 44]
+Row = 3
+Column = 9
+
+[Well 45]
+Row = 4
+Column = 0
+
+[Well 46]
+Row = 4
+Column = 1
+
+[Well 47]
+Row = 4
+Column = 2
+
+[Well 48]
+Row = 4
+Column = 3
+
+[Well 49]
+Row = 4
+Column = 5
+
+[Well 50]
+Row = 4
+Column = 6
+
+[Well 51]
+Row = 4
+Column = 8
+
+[Well 52]
+Row = 4
+Column = 9
+
+[Well 53]
+Row = 5
+Column = 0
+
+[Well 54]
+Row = 5
+Column = 1
+
+[Well 55]
+Row = 5
+Column = 2
+
+[Well 56]
+Row = 5
+Column = 3
+
+[Well 57]
+Row = 5
+Column = 4
+
+[Well 58]
+Row = 5
+Column = 5
+
+[Well 59]
+Row = 5
+Column = 6
+
+[Well 60]
+Row = 5
+Column = 7
+
+[Well 61]
+Row = 5
+Column = 8
+
+[Well 62]
+Row = 5
+Column = 9
+
+[Well 63]
+Row = 6
+Column = 0
+
+[Well 64]
+Row = 6
+Column = 1
+
+[Well 65]
+Row = 6
+Column = 2
+
+[Well 66]
+Row = 6
+Column = 3
+
+[Well 67]
+Row = 6
+Column = 4
+
+[Well 68]
+Row = 6
+Column = 5
+
+[Well 69]
+Row = 6
+Column = 7

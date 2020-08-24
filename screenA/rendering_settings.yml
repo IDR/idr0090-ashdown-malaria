@@ -1,0 +1,34 @@
+---
+channels:
+    1:
+        active: false
+        end: 125.0
+        start: 4307.0
+        color: FFFFFF
+        label: BF
+    2:
+        active: true
+        end: 324.0
+        start: 3585.0
+        color: 00FFFF
+        label: DAPI
+    3:
+        active: true
+        end: 0.0
+        start: 6178.0
+        color: 00FF00
+        label: GFP
+    4:
+        active: true
+        end: 2.0
+        start: 761.0
+        color: FF0000
+        label: Cy3
+    5:
+        active: true
+        end: 67.0
+        start: 1504.0
+        color: FF00FF
+        label: Cy5
+greyscale: false
+version: 2

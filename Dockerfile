@@ -8,4 +8,4 @@ RUN wget https://artifacts.openmicroscopy.org/artifactory/maven/idr/bioformats_p
 COPY screens screens
 
 ENV BF_MAX_MEM 4g
-ENTRYPOINT ["./bftools/bfconvert"]
+ENTRYPOINT ["./bftools/bfconvert", "-tilex", "512", "-tiley", "512", "-compression", "zlib"]

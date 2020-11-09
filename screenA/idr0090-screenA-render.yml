@@ -1,34 +1,34 @@
 ---
 channels:
     1:
-        active: true
-        start: 125.0
-        end: 4307.0
+        active: false
+        start: 0
+        end: 4000.0
         color: FFFFFF
         label: BF
     2:
         active: true
         start: 324.0
         end: 3585.0
-        color: 00FFFF
-        label: DAPI
+        color: 0000FF
+        label: DNA
     3:
-        active: true
+        active: false
         start: 0.0
         end: 6178.0
         color: 00FF00
-        label: GFP
+        label: Cytosolic GFP
     4:
         active: true
         start: 2.0
         end: 761.0
         color: FF0000
-        label: Cy3
+        label: Red Blood Cell
     5:
         active: true
         start: 67.0
         end: 1504.0
-        color: FF00FF
-        label: Cy5
+        color: 00FF00
+        label: Mitochondria
 greyscale: false
 version: 2

@@ -41,8 +41,10 @@ columns:
         - name: Compound 1 Name
           clientname: Compound Name
           include: yes
-        - name: Compound PubChem URL
+        - name: Compound 1 PubChem CID
           clientname: Compound Name URL
+          clientvalue: >-
+            https://pubchem.ncbi.nlm.nih.gov/compound/{{ value|urlencode }}
           include: yes
 
   - group:
@@ -51,8 +53,10 @@ columns:
         - name: Compound 2 Name
           clientname: Compound Name
           include: yes
-        - name: Compound PubChem URL
+        - name: Compound 2 PubChem CID
           clientname: Compound Name URL
+          clientvalue: >-
+            https://pubchem.ncbi.nlm.nih.gov/compound/{{ value|urlencode }}
           include: yes
 
   - group:

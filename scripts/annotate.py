@@ -5,7 +5,7 @@
 #
 
 from prefect import Flow, Parameter, task
-from prefsect.tasks.shell import ShellTask
+from prefect.tasks.shell import ShellTask
 from prefect.utilities.debug import raise_on_exception
 
 
@@ -33,24 +33,24 @@ def print_output(prefix, output):
 
 
 @task
-def annotate_bulk(object):
+def annotate_bulk(object, ignore):
     return f"{COMMAND} metadata populate {BULK_OPTIONS} {object}"
 
 
 @task
-def annotate_bulk2map(object):
-    return f"{COMMAND} metadata populate {BULKMAP_OPTIONS}{object}"
+def annotate_bulk2map(object, ignore):
+    return f"{COMMAND} metadata populate {BULKMAP_OPTIONS} {object}"
 
 @task
-def render(object):
+def render(object, ignore):
     return f"{COMMAND} render set {object} {RENDER_CONFIG}"
 
 
 with Flow("idr0090") as flow:
-    key = shell(command="omero sessions key")
-    shell(annotate_bulk(object))
-    shell(annotate_bulk2map(object))
-    shell(render(object))
+    key = shell(command=f"{COMMAND} sessions key")
+    bulk = shell(annotate_bulk(object, key)))
+    bulk2map = shell(annotate_bulk2map(object, bulk))
+    shell(render(object, bulk2map))
 
 if __name__ == "__main__":
     with raise_on_exception():

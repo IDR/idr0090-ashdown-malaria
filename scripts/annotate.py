@@ -48,7 +48,7 @@ def render(object, ignore):
 
 with Flow("idr0090") as flow:
     key = shell(command=f"{COMMAND} sessions key")
-    bulk = shell(annotate_bulk(object, key)))
+    bulk = shell(annotate_bulk(object, key))
     bulk2map = shell(annotate_bulk2map(object, bulk))
     shell(render(object, bulk2map))
 

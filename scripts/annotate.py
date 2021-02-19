@@ -54,4 +54,4 @@ with Flow("idr0090") as flow:
 
 if __name__ == "__main__":
     with raise_on_exception():
-        flow.run(screen="Screen:2851")
+        flow.run(object="Screen:2851")

@@ -21,7 +21,7 @@ COMMAND = "/opt/omero/server/OMERO.server/bin/omero"
 
 BULK_OPTIONS = "--file /uod/idr/metadata/idr0090-ashdown-malaria/screenA/idr0090-screenA-annotation.csv"
 
-BULKMAP_OPTIONS = "--context bulkmap --batch 500 --wait 300 --cfg /uod/idr/metadata/idr0090-ashdown-malaria/screenA/idr0090-screenA-render.yml"
+BULKMAP_OPTIONS = "--context bulkmap --batch 500 --wait 300 --cfg /uod/idr/metadata/idr0090-ashdown-malaria/screenA/idr0090-screenA-bulkmap-config.yml"
 
 RENDER_CONFIG = "/uod/idr/metadata/idr0090-ashdown-malaria/screenA/idr0090-screenA-render.yml"
 

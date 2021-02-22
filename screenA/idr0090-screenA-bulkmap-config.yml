@@ -74,7 +74,7 @@ columns:
         - name: Compound 1 Concentration (uM)
           clientname: Concentration (microMolar)
           include: yes
-        - name: Compound Mechanism of Action (MoA)
+        - name: Compound 1 Mechanism of Action (MoA)
           clientname: Mechanism of Action (MoA)
           include: yes
 
@@ -93,7 +93,7 @@ columns:
         - name: Compound 2 Concentration (uM)
           clientname: Concentration (microMolar)
           include: yes
-        - name: Compound Mechanism of Action (MoA)
+        - name: Compound 2 Mechanism of Action (MoA)
           clientname: Mechanism of Action (MoA)
           include: yes
 
